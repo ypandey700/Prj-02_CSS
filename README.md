@@ -1,0 +1,1 @@
+Project-2 Shop-Jacket — a fun little project where I practiced using CSS . After learning the fundamentals of CSS, I wanted to build something to apply my knowledge. It’s minimal, designed to help me understand layout behavior better.
